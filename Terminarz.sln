@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminarz", "Terminarz.csproj", "{4FCD3082-6C9C-4570-877C-8A50E9A274AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FCD3082-6C9C-4570-877C-8A50E9A274AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCD3082-6C9C-4570-877C-8A50E9A274AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCD3082-6C9C-4570-877C-8A50E9A274AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCD3082-6C9C-4570-877C-8A50E9A274AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF80FA9-668C-462D-8DFA-1BDBBA65CF58}
+	EndGlobalSection
+EndGlobal
